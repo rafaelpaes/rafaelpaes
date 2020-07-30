@@ -1,8 +1,8 @@
-### Hi there! 😁
+### Hello there! What's the craic? 😁
 
 I'm Rafael Felipe Paes from Brazil (🇧🇷). I've been working as Back-End Developer since 2007. Currently I'm Tech Lead at [Equiplano Sistemas](https://www.equipalano.com.br). I love to study news features that technologies has to offer in the moment.
 
-In my free time I like to play (and watch) soccer (⚽️) (I'm a Athletico Paranaense fan), watch some movies (🎞️) and series (📺),  listen to music (🎵) and hang out with my wife 
+In my free time I like to play (and watch) soccer (⚽️) (I'm a Athletico Paranaense fan), watch some movies (🎞️) and series (📺),  listen to music (🎵) and hang out with my wife (👩). 
 
 Would you like to find me?
 
