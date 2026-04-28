@@ -1,15 +1,51 @@
-### Hello there! What's the craic? 😁
+# 👋 Olá! Seja bem-vindo(a)
 
-I'm Rafael Felipe Paes from Brazil (🇧🇷). I've been working as Back-End Developer since 2007. Currently I'm Tech Lead at [Equiplano Sistemas](https://www.equipalano.com.br). 
-So I love to study news features that technologies has to offer in the moment.
+Sou o **Rafael Felipe Paes**, brasileiro 🇧🇷, atuando como **Back-End Developer desde 2007**.
 
-In my free time I like to play (and watch) soccer (⚽️) (I'm a Athletico Paranaense fan), watch some movies (🎞️) and series (📺),  listen to music (🎵) and hang out with my wife (👩). 
+Atualmente trabalho como **Líder Técnico na CWI Software**, onde atuo no desenvolvimento de soluções escaláveis, apoio arquitetural e liderança técnica de times de engenharia.
 
-Would you like to find me?
+---
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rafael_cap)](https://twitter.com/rafael_cap)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-paes-ab833529/)](https://www.linkedin.com/in/rafael-paes-ab833529/)
+# 💻 Sobre mim
 
-Kind Regards!
+Tenho forte atuação e interesse em:
 
-Rafael Paes
+- Arquitetura de sistemas backend
+- Integrações entre APIs e serviços distribuídos
+- Boas práticas de engenharia de software
+- Performance e escalabilidade de sistemas
+- Evolução técnica de times de desenvolvimento
+- Novas tecnologias e tendências do ecossistema backend
+
+Busco constantemente evoluir tecnicamente e contribuir para decisões que impactem positivamente produtos e equipes.
+
+---
+
+# ⚽️ Fora do trabalho
+
+No meu tempo livre, gosto de:
+
+- Jogar e acompanhar futebol ⚽️ (torcedor do Athletico Paranaense ❤️🖤)
+- Assistir filmes 🎬 e séries 📺
+- Ouvir música 🎵
+- Passar tempo com minha esposa 👩
+
+---
+
+# 📫 Contato
+
+Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paes-ab833529/)
+
+---
+
+# 🚀 Objetivo
+
+Contribuir com a construção de sistemas robustos, escaláveis e bem arquitetados, além de apoiar o crescimento técnico de times de engenharia de software.
+
+---
+
+# 🤝 Obrigado pela visita!
+
+Fique à vontade para explorar meus repositórios e entrar em contato.
